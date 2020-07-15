@@ -1,6 +1,6 @@
 .container{
     width: 75%;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 .footer{
 
@@ -23,3 +23,26 @@
 .card img{
     padding-top: 30px;
 }
+.container .underline {
+    border-bottom: 6px solid orange;
+    border-radius: 3px;
+    margin-left: 450px;
+    margin-right: 450px;
+  }
+  .vertically-center{
+      display: flex;
+      align-items: center;
+      margin-right: 500px;
+      
+      margin-left: 100px;
+  }
+  .pale-order img{
+    width: 500px;
+    margin-left:150px;
+    position: relative;
+   
+  }
+  .bag img{
+      border: 1px solid gray;
+  }
+ 
