@@ -1,0 +1,25 @@
+.container{
+    width: 75%;
+    margin-bottom: 20px;
+}
+.footer{
+
+    color: orange;
+}
+.carousel-item{
+    padding: 20px 40px;
+    
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.card{
+  box-shadow: 5px 5px 5px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.card img{
+    padding-top: 30px;
+}
