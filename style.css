@@ -35,6 +35,7 @@
       margin-right: 500px;
       
       margin-left: 100px;
+      margin-top: 40px;
   }
   .pale-order img{
     width: 500px;
@@ -43,6 +44,15 @@
    
   }
   .bag img{
-      border: 1px solid gray;
+    box-shadow: 4px 4px 10px gray;
+      padding: 40px;
   }
- 
+ .perfume img{
+    box-shadow: 4px 4px 10px gray;
+    padding: 40px;
+ }
+.shoe img{
+    box-shadow: 4px 4px 10px gray;
+    padding: 40px;
+    margin-top: 10px;
+}
